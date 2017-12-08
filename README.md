@@ -26,9 +26,6 @@ Coinigy is my preference for day trading as it interfaces directly with the exch
 
 Coinigy is a dedicated charting tool used by day traders. Coinigy can interface via API key to the Bittrex exchange and you can trade manually via the Coinigy charts rather than swapping back and forth between Coinigy and Bittrex all the time. So on Coinigy I am watching the charts to see if the parameters I mentioned on the Github post have been met. When they are I place a trade via the chart tools. The trade then appears on the Bittrex exchange. It can take a lot of time for the conditions to be met so you are always at your computer watching the charts. That's why I want to automate using PT to free me from having to watch the charts all day. I can and do set trades to run during the day on Coinigy but having an automated bot doing the same work is very appealing.
 
-Chart should look like this once you have it setup correctly:
-
-
 Indicators used:
 
 - Two moving average exponential lines with colours chosen to stand out from background
