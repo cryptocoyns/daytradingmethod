@@ -59,3 +59,9 @@ Always remember the following quotes:
 How do you eat an elephant? One small bite at a time!
 
 Start by doing what’s necessary; then do what’s possible; and suddenly you are doing the impossible.
+
+------------------------------
+
+I have now automated my day trading method using Profit Trailer an automated trading bot.
+
+You can join our community on discord and get updates on CryptoCoyns Day Trading Method using this link: https://discord.gg/t8ymzAb
