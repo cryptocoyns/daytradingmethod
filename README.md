@@ -1,7 +1,7 @@
 # daytradingmethod
 CryptoCoyns Day Trading Method
 
-Copyright (c) 2017, Cryptocoyns.
+Copyright (c) 2017, Cryptocoyns. http://cryptocoyns.com
 
 Here are the day trading rules I use:
 
@@ -24,9 +24,9 @@ Either use the free TraderView or a paid charting tool such as <a href="https://
 
 TraderView works but the free version doesn't allow you to save your settings so you have to redo your setup everyday.
 
-Coinigy is my preference for day trading as it interfaces directly with the exchanges via API keys so you can trade directly off the chart. It also provides portfolio views across exchanges so you can see total holdings. i.e. Bittrex, Binance, etc.
+<a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a> is my preference for day trading as it interfaces directly with the exchanges via API keys so you can trade directly off the chart. It also provides portfolio views across exchanges so you can see total holdings. i.e. Bittrex, Binance, etc.
 
-Coinigy is a dedicated charting tool used by day traders. Coinigy can interface via API key to the Bittrex exchange and you can trade manually via the Coinigy charts rather than swapping back and forth between Coinigy and Bittrex all the time. So on Coinigy I am watching the charts to see if the parameters I mentioned on the Github post have been met. When they are I place a trade via the chart tools. The trade then appears on the Bittrex exchange. It can take a lot of time for the conditions to be met so you are always at your computer watching the charts. That's why I want to automate using PT to free me from having to watch the charts all day. I can and do set trades to run during the day on Coinigy but having an automated bot doing the same work is very appealing.
+<a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a> is a dedicated charting tool used by day traders. <a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a> can interface via API key to the Bittrex exchange and you can trade manually via the <a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a> charts rather than swapping back and forth between <a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a> and Bittrex all the time. So on <a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a> I am watching the charts to see if the parameters I mentioned on the Github post have been met. When they are I place a trade via the chart tools. The trade then appears on the Bittrex exchange. It can take a lot of time for the conditions to be met so you are always at your computer watching the charts. That's why I want to automate using PT to free me from having to watch the charts all day. I can and do set trades to run during the day on Coinigy but having an automated bot doing the same work is very appealing.
 
 Indicators used:
 
