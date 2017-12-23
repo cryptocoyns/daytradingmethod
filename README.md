@@ -20,7 +20,7 @@ Do the opposite of what everyone else is doing, so when everyone else is panic S
 All Investment carries risk so only Trade with money you can afford to lose.
 
 Charts:
-Either use the free TraderView or a paid charting tool such as Coinigy
+Either use the free TraderView or a paid charting tool such as <a href="https://www.coinigy.com/?r=b19b6753">Coinigy</a>
 
 TraderView works but the free version doesn't allow you to save your settings so you have to redo your setup everyday.
 
