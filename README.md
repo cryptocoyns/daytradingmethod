@@ -66,6 +66,9 @@ Start by doing what’s necessary; then do what’s possible; and suddenly you a
 
 I have now automated my day trading method using Profit Trailer an automated trading bot.
 
+You can purchase a Profit Trailer license here:
+https://profittrailer.io/pt/CryptoCoyns/
+
 You can join our community on discord and get updates on CryptoCoyns Day Trading Method using this link: https://discord.gg/t8ymzAb
 
 Your use of the CryptoCoyns Day Trading Method settings is subject to and indicates your acceptance of the license provided here:  https://github.com/cryptocoyns/daytradingmethod/blob/master/LICENSE
