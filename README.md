@@ -17,5 +17,4 @@ https://github.com/cryptocoyns/daytradingmethod/wiki
 
 Your use of the CryptoCoyns Day Trading Method settings is subject to and indicates your acceptance of the license provided here:  https://github.com/cryptocoyns/daytradingmethod/blob/master/LICENSE
 
-
 Copyright © 2017, Newhaven Resources Pty. Ltd. ABN: 92 094 028 645 owner of CryptoCoyns.com All rights reserved worldwide.
