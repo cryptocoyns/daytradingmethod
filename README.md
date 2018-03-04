@@ -4,6 +4,7 @@ CryptoCoyns Day Trading Method
 Copyright (c) 2017, Cryptocoyns. http://cryptocoyns.com
 
 Due to people illegally forking this commercial source code repository we have had to remove the content from GitHub.
+Copyright law is very specific about people taking complete copies it carries with it a USD$150,000 fine. As a commercial entity we do enforce our copyright. https://help.github.com/articles/dmca-takedown-policy/
 
 I have now automated my day trading method using Profit Trailer an automated trading bot.
 
